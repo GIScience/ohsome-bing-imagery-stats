@@ -14,8 +14,8 @@ We've used the methodology proposed by [Piet Brömmel's OSM Statistics](https://
 
 ![](monthly_map_edits.png)
 
-* As of 2025 Bing Aerial Imagery is used for about 20% of all edits in OSM
-* The share of edits that use Bing Imagery has increased since beginning of 2023
+* As of 2025 Bing Aerial Imagery is used for about 20% of all edits in OSM.
+* The share of edits that use Bing Imagery has increased since beginning of 2023.
 * Particular high usage was observed in 2024 reaching more than 35%.
 * In absolute numbers, more than 10 million map edits are supported by Bing Imagery every month.
 
@@ -80,4 +80,4 @@ We've used the methodology proposed by [Piet Brömmel's OSM Statistics](https://
 ![](contributors_editor.png)
 
 * The iD editor has by far the largest OSM contributor user base. Also, most contributors use iD when the map in OSM using Bing Imagery. However, these users perform a relatively low number of edits (see statistics above for map edits).
-* Almost a third of all JOSM users has used Bing Imagery for mapping in OSM. These contributors usually perform a large number of edits.
+* Almost a third of all JOSM users have sed Bing Imagery for mapping in OSM. These contributors usually perform a large number of edits.
